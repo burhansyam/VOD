@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Indonesia",LANGUAGE="id",AUTOSELECT=YES,DEFAULT=YES,URI="https://raw.githubusercontent.com/burhansyam/VOD/main/the.amazing.maurice-2022/sub.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=714000,RESOLUTION=1920x1080
+https://jjka.vizcloud.club/simple/EqPFJvgQWADtjDlGha7rC8Aur1wBsOLpSQJ7rqk+wYMnU94US2El/br/H4/v.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=514000,RESOLUTION=1270x720
+https://jjka.vizcloud.club/simple/EqPFJvgQWADtjDlGha7rC8Aur1wBsOLpSQJ7rqk+wYMnU94US2El/br/H3/v.m3u8

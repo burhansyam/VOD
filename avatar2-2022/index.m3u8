@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:4
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Indonesia",LANGUAGE="id",AUTOSELECT=YES,DEFAULT=YES,URI="https://raw.githubusercontent.com/burhansyam/vod/main/avatar2-2022/sub.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Indonesia",LANGUAGE="id",AUTOSELECT=YES,DEFAULT=YES,URI="https://raw.githubusercontent.com/burhansyam/VOD/main/avatar2-2022/sub.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=714000,RESOLUTION=1920x1080
 https://pkmk.vizcloud.club/simple/EqPFIfsQWADtjDlGha7rC5Eu+Vxd_7ruTwN7rqk+wYMnU94US2El/br/H4/v.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=514000,RESOLUTION=1270x720

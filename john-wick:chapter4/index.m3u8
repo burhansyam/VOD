@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Indonesia",LANGUAGE="id",AUTOSELECT=YES,DEFAULT=YES,URI="https://raw.githubusercontent.com/burhansyam/VOD/main/
+john-wick:chapter4/sub.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=714000,RESOLUTION=1920x1080
+https://znxd.vizcloud.co/simple/EqPFJvoQWADtjDlGha7rC5YurFwCuLn5ERl7rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H3/v.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=514000,RESOLUTION=1270x720
+https://znxd.vizcloud.co/simple/EqPFJvoQWADtjDlGha7rC5YurFwCuLn5ERl7rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H1/v.m3u8
